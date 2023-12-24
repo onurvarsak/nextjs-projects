@@ -2,11 +2,9 @@ Prisma - which is the ORM connecting the database of mongodb.
 
 Usage prisma
 
-1. npm i prisma --save-dev
+1. npm i prisma --save-dev - added prisma package on myproject
 2. npx prisma - for invoke CLI
 3. npx prisma init - initialize prisma - this creates .env file with DATABASE_URL
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
